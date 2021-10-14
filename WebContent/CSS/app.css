@@ -1,0 +1,45 @@
+
+.card-item {
+	margin: 10px 20px;
+	min-width: 100px;
+	height: 100px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.msg-send {
+	max-width:50%;
+	margin-right: 0px;
+	margin-left: auto;
+
+	
+}
+
+.msg-recive {
+	max-width:50%;
+	margin-left: 0px;
+	margin-right:auto ;
+
+	
+}
+.a-link {
+	
+	text-decoration: none;
+}
+
+.input-text {
+	max-width: 250px;
+}
+
+.chat {
+	height: 500px;
+	overflow: scroll;
+}
+
+#sidebar {
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+}

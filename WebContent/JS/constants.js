@@ -1,0 +1,1 @@
+constants = {url:"http://localhost:4321/Classroom/",socketUrl:"ws://localhost:4321/Classroom/"};
